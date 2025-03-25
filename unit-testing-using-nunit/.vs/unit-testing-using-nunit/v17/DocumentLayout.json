@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1DAW2425-09\\Documents\\SergioLM_ExUD4-ED\\unit-testing-using-nunit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC90D6C-7246-46D5-807E-F581CE589EBF}|PrimeService.Tests\\PrimeService.Tests.csproj|c:\\users\\1daw2425-09\\documents\\sergiolm_exud4-ed\\unit-testing-using-nunit\\primeservice.tests\\primeservice_isprimeshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC90D6C-7246-46D5-807E-F581CE589EBF}|PrimeService.Tests\\PrimeService.Tests.csproj|solutionrelative:primeservice.tests\\primeservice_isprimeshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484CD908-2147-4FCC-8531-E5FEA5F2185F}|PrimeService\\PrimeService.csproj|c:\\users\\1daw2425-09\\documents\\sergiolm_exud4-ed\\unit-testing-using-nunit\\primeservice\\primeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484CD908-2147-4FCC-8531-E5FEA5F2185F}|PrimeService\\PrimeService.csproj|solutionrelative:primeservice\\primeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeService_IsPrimeShould.cs",
+              "DocumentMoniker": "C:\\Users\\1DAW2425-09\\Documents\\SergioLM_ExUD4-ED\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService_IsPrimeShould.cs",
+              "RelativeDocumentMoniker": "PrimeService.Tests\\PrimeService_IsPrimeShould.cs",
+              "ToolTip": "C:\\Users\\1DAW2425-09\\Documents\\SergioLM_ExUD4-ED\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService_IsPrimeShould.cs",
+              "RelativeToolTip": "PrimeService.Tests\\PrimeService_IsPrimeShould.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:27:06.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrimeService.cs",
+              "DocumentMoniker": "C:\\Users\\1DAW2425-09\\Documents\\SergioLM_ExUD4-ED\\unit-testing-using-nunit\\PrimeService\\PrimeService.cs",
+              "RelativeDocumentMoniker": "PrimeService\\PrimeService.cs",
+              "ToolTip": "C:\\Users\\1DAW2425-09\\Documents\\SergioLM_ExUD4-ED\\unit-testing-using-nunit\\PrimeService\\PrimeService.cs",
+              "RelativeToolTip": "PrimeService\\PrimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:19:11.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

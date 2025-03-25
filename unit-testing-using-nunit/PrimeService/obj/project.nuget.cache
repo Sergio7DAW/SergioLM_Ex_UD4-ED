@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "sSzIFQ9C4Wo=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\1DAW2425-09\\Documents\\SergioLM_ExUD4-ED\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Ciclo detectado. \r\n  PrimeService -> PrimeService.",
+      "libraryId": "PrimeService",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
