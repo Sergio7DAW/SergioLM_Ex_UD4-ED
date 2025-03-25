@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1DAW2425-09\\Desktop\\pruebas222\\unit-testing-using-nunit2\\PrimerService\\PrimerService.csproj",
-      "projectName": "PrimerService",
-      "projectPath": "C:\\Users\\1DAW2425-09\\Desktop\\pruebas222\\unit-testing-using-nunit2\\PrimerService\\PrimerService.csproj",
+      "projectUniqueName": "C:\\Users\\1DAW2425-09\\Documents\\SergioL_ExUD4-ED\\unit-testing-using-nunit2\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+      "projectName": "PrimeService",
+      "projectPath": "C:\\Users\\1DAW2425-09\\Documents\\SergioL_ExUD4-ED\\unit-testing-using-nunit2\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
       "packagesPath": "C:\\Users\\1DAW2425-09\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1DAW2425-09\\Desktop\\pruebas222\\unit-testing-using-nunit2\\PrimerService\\obj\\",
+      "outputPath": "C:\\Users\\1DAW2425-09\\Documents\\SergioL_ExUD4-ED\\unit-testing-using-nunit2\\unit-testing-using-nunit\\PrimeService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1DAW2425-09\\AppData\\Roaming\\NuGet\\NuGet.Config",

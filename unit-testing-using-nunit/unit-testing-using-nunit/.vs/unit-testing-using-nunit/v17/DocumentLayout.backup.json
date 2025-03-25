@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1DAW2425-09\\Documents\\SergioL_ExUD4-ED\\unit-testing-using-nunit2\\unit-testing-using-nunit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E899A6C-8ED1-4A94-8D97-0B8FFC7AFF3B}|PrimeService\\PrimeService.csproj|c:\\users\\1daw2425-09\\documents\\sergiol_exud4-ed\\unit-testing-using-nunit2\\unit-testing-using-nunit\\primeservice\\primeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E899A6C-8ED1-4A94-8D97-0B8FFC7AFF3B}|PrimeService\\PrimeService.csproj|solutionrelative:primeservice\\primeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeService.cs",
+              "DocumentMoniker": "C:\\Users\\1DAW2425-09\\Documents\\SergioL_ExUD4-ED\\unit-testing-using-nunit2\\unit-testing-using-nunit\\PrimeService\\PrimeService.cs",
+              "RelativeDocumentMoniker": "PrimeService\\PrimeService.cs",
+              "ToolTip": "C:\\Users\\1DAW2425-09\\Documents\\SergioL_ExUD4-ED\\unit-testing-using-nunit2\\unit-testing-using-nunit\\PrimeService\\PrimeService.cs",
+              "RelativeToolTip": "PrimeService\\PrimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:28:31.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
